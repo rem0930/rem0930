@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **rem0930/rem0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<p align="left">
+  <a href="https://github.com/rem0930">
+    <img height="20" src="https://komarev.com/ghpvc/?username=rem0930" />
+  </a>
+  <a href="https://github.com/rem0930">
+    <img height="20" src="https://img.shields.io/github/followers/rem0930?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/rem0930">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rem0930/posts.svg" />
+  </a>
+  <a href="http://qiita.com/rem0930">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rem0930/contributions.svg" />
+  </a>
+</p>
