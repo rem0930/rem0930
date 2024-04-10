@@ -26,6 +26,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/rem0930/posts.svg" />
   </a>
   <a href="http://qiita.com/Muse06">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/rem0930/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Muse06/contributions.svg" />
   </a>
 </p>
