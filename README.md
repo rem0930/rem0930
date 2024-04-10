@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi!👋 Welcome to my GitHub!
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rem0930&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rem0930&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rem0930&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rem0930&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rem0930&theme=gruvbox&utcOffset=9)
 
-**rem0930/rem0930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=rem0930&theme=gruvbox)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 <p align="left">
@@ -24,8 +21,5 @@ Here are some ideas to get you started:
   </a>
   <a href="http://qiita.com/Muse06">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Muse06/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Muse06">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Muse06/contributions.svg" />
   </a>
 </p>
