@@ -4,11 +4,11 @@
   <a href="https://github.com/rem0930">
     <img height="20" src="https://komarev.com/ghpvc/?username=rem0930" />
   </a>
-  <a href="http://qiita.com/Muse_06">
+  <a href="http://qiita.com/Null_06">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Muse_06/posts.svg" />
   </a>
   <//qiita.com/Muse_06">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Muse_06/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Null_06/contributions.svg" />
   </a>
 </p>
 
