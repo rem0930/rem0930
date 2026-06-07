@@ -26,9 +26,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=rem0930&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rem0930&layout=compact&theme=github_dark&hide_border=true" />
-</div>
